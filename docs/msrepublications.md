@@ -137,7 +137,7 @@ from Laboratory Records.
 | ORNl-TM-4255 | 7/73   | G. L. Ragan | Calculation of Multiplication Factor Vs Temperature for a MSBR lattice in the HTLTR and Comparison with Experiment |
 | ORNL-TM-4271 | 12/72  | J. W. Koger | Mass Transfer Between Hastelloy N in a Molten Sodium Fluoroborate Mixture in a Thermal Convection Loop |
 | ORNL-TM-4272 | 12/72  | J. W. Koger | Compatibility of Brazing Alloys in a Molten Salt in a BF<sub>4</sub>-8 mole % in NaF at 610°c |
-| ORNL-TM-4286 | 12/72  | J. W. Koger | Alloy Compatibility with LiF-BeF<sub>2</sub> Salts Containing ThF<sub>4</sub> and UF</sub>4</sub> |
+| ORNL-TM-4286 | 12/72  | J. W. Koger | Alloy Compatibility with LiF-BeF<sub>2</sub> Salts Containing ThF<sub>4</sub> and UF<sub>4</sub> |
 | ORNL-TM-4308 | 3/73   | S. Cantor | Density and Viscosity of Several Molten Fluoride Mixtures |
 | ORNL-4829    | 11/72  | H. E. McCoy | Intergranular Cracking of INOR-8 in the MSRE |
 | ORNL-4079    | 2/73   | J. W. Cooke | Development of the Variable-Gap Technique for Measuring the Thermal Conductivity of Fluoride Salt Mixtures |
