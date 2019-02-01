@@ -69,31 +69,21 @@ from Laboratory Records.
 | D. D. Sood <br> J. Braunstein  | "Lithium-Bismuth Alloy Electrodes for Thermodynamic Investigation of Molten LiF-BeF<sub>2</sub> Mixtures", J. ElectroChem. Soc. 121 (2), 247 (1974) |
 | L. M. Toth <br> G. E. Boyd | "Raman Spectra of Thorium (IV) Fluoride Complex Ions in Fluoride Melts", J. Phys. Chem. 77, 2654 (1973) |
 | L. M. Toth <br> L. O. Gilpatrick  | "Temperature and Solvent Effects on the Equilibrium of Dilute Uranium Trifluoride Solutions Contained in Graphite", J. Phys. Chem. 77, 2799 (1973) |
-| L. M. Toth <br> J. B. Bates <br> G. E. Boyd  | "Raman Spectra of Be<sub>2</sub>F<sub>7</sub></sup>3-</sup> and Higher Polymers of Beryllium Fluorides in the Crystalline and Molten State", J. Phys. Chem. 77, 216 (1973) |
-| L. M. Toth <br> J. B. Bates <br> G. E. Boyd | "Raman Spectra of Zirconium (IV) Fluoride Complex Ions in Fluoride Melts and Polycrystalline
-Solids", J. Phys. Chem. 77, 1384 (1973) |
-| L. M. Toth <br> L. O. GilPatrick | "Equilibria of Uranium Carbides in the Molten Fluoride Solutions of UF3 and UF4 Contained in
-Graphite at 850°K", J. Inorg. Nucl. Chem. 35,
-1509 (1973) |
-| J.S. Watson <br> L. E. McNeese | "Holdup, Flooding, and Pressure Drop in Packed Columns During Countercurrent Flow of Mercury and Water",
-AIChE Journal, 19 (2), 230 (1973) |
+| L. M. Toth <br> J. B. Bates <br> G. E. Boyd  | "Raman Spectra of Be<sub>2</sub>F<sub>7</sub> </sup>3-</sup> and Higher Polymers of Beryllium Fluorides in the Crystalline and Molten State", J. Phys. Chem. 77, 216 (1973) |
+| L. M. Toth <br> J. B. Bates <br> G. E. Boyd | "Raman Spectra of Zirconium (IV) Fluoride Complex Ions in Fluoride Melts and Polycrystalline Solids", J. Phys. Chem. 77, 1384 (1973) |
+| L. M. Toth <br> L. O. GilPatrick | "Equilibria of Uranium Carbides in the Molten Fluoride Solutions of UF<sub>3</sub> and UF<sub>4</sub> Contained in Graphite at 850°K", J. Inorg. Nucl. Chem. 35, 1509 (1973) |
+| J.S. Watson <br> L. E. McNeese | "Holdup, Flooding, and Pressure Drop in Packed Columns During Countercurrent Flow of Mercury and Water", AIChE Journal, 19 (2), 230 (1973) |
 | F. L. Whiting <br> G. Mamantov <br> J. P. Young | "Electrochemical Generation and Spectrophotometric Study of Solute Species in Molten Fluoride Media", J. Inorg. Nucl. Chem. 35, 1553 (1973) |
-| C. E. Vallet <br> J. Braunstein | "Application of the Quasilattice Model to Association in Dilute Reciprocal Molten Salt Mixtures. The
-System Silver Sulfate-Potassium Nitrate", J. Phys.
-Chem. 77, 2672 (1973) |
+| C. E. Vallet <br> J. Braunstein | "Application of the Quasilattice Model to Association in Dilute Reciprocal Molten Salt Mixtures. The System Silver Sulfate-Potassium Nitrate", J. Phys. Chem. 77, 2672 (1973) |
 
 ### January - June, 1973
 | Document Number | Date | Author | Title |
 |:--|:--|:--|:--|
 | MSR-73-1 | 1/23 | H. C. Roland | Heat Transfer Studies for the Molten Salt Capsule TeGen-1 |
-| MSR-73-2 | 1/26 | J. H. Shaffer | Salt Preparation and Fuel Pin Fill Operations for MSR-ORR
-Capsule TeGen-1 |
-| MSR-73-3 | 1/31 | P. N. Haubenreich | MSRP Documentation - Preliminary
-Plans for Closeout |
-| MSR-73-4  | 1/11 | H. E. McCoy | Proposed Experimental Plan for
-Fluoroborate Corrosion Work |
-| MSR-73-5 | 1/20 | T. A. Flynn <br> (Ebasco) | Ebasco - Narrative Report for
-December 1972 - January 1973 |
+| MSR-73-2 | 1/26 | J. H. Shaffer | Salt Preparation and Fuel Pin Fill Operations for MSR-ORR Capsule TeGen-1 |
+| MSR-73-3 | 1/31 | P. N. Haubenreich | MSRP Documentation - Preliminary Plans for Closeout |
+| MSR-73-4  | 1/11 | H. E. McCoy | Proposed Experimental Plan for Fluoroborate Corrosion Work |
+| MSR-73-5 | 1/20 | T. A. Flynn <br> (Ebasco) | Ebasco - Narrative Report for December 1972 - January 1973 |
 | MSR-73-6 | 1/26 | R. E. Hollingsworth <br> (AEC) | Termination of Support for the MSRP in FY 1974 |
 | MSR-73-7 | 2/1 | P. N. Haubenreich | A Catalog of Dynamics Analyses for Circulating-Fuel Reactors |
 | MSR-73-8 | 2/6 | P. N. Haubenreich | Future Requirements for MSRE Surveillance and Disposal |
@@ -102,83 +92,58 @@ December 1972 - January 1973 |
 | MSR-73-11 | 1/31 | R. J. Hart <br> (ORO) | Termination of Molten Salt Reactor Program |
 | MSR-73-12 | 2/14 | G. E. Creek <br> C. E. Bamberger | The Wetting of Graphite by Bismuth and Bismuth-Lithium Alloys as Determined by the Sessile Drop Method |
 | MSR-73-13 | 2/21 | P. N. Haubenreich | Storage of MSRP Documents |
-| MSR-73-14 | 2/6 | E. S. Bettis | Revised Ideas on the MSBR Design Since
-the Conceptual Design Report on the Single-Fluid Breeder was Issued |
+| MSR-73-14 | 2/6 | E. S. Bettis | Revised Ideas on the MSBR Design Since the Conceptual Design Report on the Single-Fluid Breeder was Issued |
 | MSR-73-15 | 3/6 | R. H. Guymon | Final Report on the Gas Systems Technology Facility |
-| MSR-73-16 | 1/26 | H. A. McLain | The CSTF Deuterium Experiment for
-the MSR Program |
-| MSR-73-17 | 3/22 | R. P. Wichner | Some Consequences of Tubing Failure
-in the MSBR Heat Exchanger |
+| MSR-73-16 | 1/26 | H. A. McLain | The CSTF Deuterium Experiment for the MSR Program |
+| MSR-73-17 | 3/22 | R. P. Wichner | Some Consequences of Tubing Failure in the MSBR Heat Exchanger |
 | MSR-73-18 | 3/14 | R. H. Guymon| Proposal for Changes in MSRE Surveillance |
-| MSR-73-19 | 3/7 | Milton Shaw <br> (AEC) | Termination of Molten Salt Reactor
-Program |
+| MSR-73-19 | 3/7 | Milton Shaw <br> (AEC) | Termination of Molten Salt Reactor Program |
 | MSR-73-20 | 5/10 | F. L. Culler | Disposition of MSR Capital Costs |
 | MSR-73-21 | 8/20 | S. Cantor | Physical Properties of FLiNaK |
 | CF-72-6-12   |  6/30  | R. P. Wichner | Sidestream Processing for Continuous Iodine and Xenon Removal from the MSBR Fuel |
-| CF-72-7-16   |  7/12  | A. S. Meyer | Methods for the Analysis of MSRP
-Samples and Process Streams |
+| CF-72-7-16   |  7/12  | A. S. Meyer | Methods for the Analysis of MSRP Samples and Process Streams |
 | CF-72-11-8   |  11/10 | D. W. Wilson <br> H. A. McLain | Conceptual Thermal-Hydraulic Design of the MSBE Core |
 | CF-72-12-38  |  12/28 | E. s. Bettis <br> et al | Lead-Cooled Molten Salt Reactors |
-| CF-72-12-43  |  12/72 | J. L. Crowley | MSRP Steam Generator Development
-Bases |
-| CF-73-1-23   |  1/12  | C. W. Collins | Bases for Design of MSBR Systems
-for Temperatures to 1300°F |
-| CF-73-1-26   |  1/15  | R. B. Briggs | The Effect of Oxide Coatings and
-Molten Salt Films on the Permeation of Hydrogen Through Metal Walls |
+| CF-72-12-43  |  12/72 | J. L. Crowley | MSRP Steam Generator Development Bases |
+| CF-73-1-23   |  1/12  | C. W. Collins | Bases for Design of MSBR Systems for Temperatures to 1300°F |
+| CF-73-1-26   |  1/15  | R. B. Briggs | The Effect of Oxide Coatings and Molten Salt Films on the Permeation of Hydrogen Through Metal Walls |
 | CF-73-1-45   |  1/29  | W. F. Schaffer, Jr. <br> et al | Quality Assurance Program Plan for the Molybdenum Reductive Extraction Equipment Test Stand |
-| CF-73-2-40   |  2/28  | R. B. Lindauer | Study of Bismuth Concentration in
-Molten Salt |
+| CF-73-2-40   |  2/28  | R. B. Lindauer | Study of Bismuth Concentration in Molten Salt |
 | CF-73-2-49   |  2/2  | H. A. McLain | The MSRXEP (Molten-Salt XEnon Poisoning) Program |
 | CF-73-2-50   |  2/9  | H. A. McLain <br> L. W. Gilley | The MSRTRI (Molten-Salt Reactor TRItium) Program |
-| CF-73-3-21   |  3/14  | H. E. McCoy | Use of Maraging Steels for MSRP
-Applications |
-| CF-73-3-13   |  3/8  | J. R. Tallacksen | Noble-Metal Fission Product
-Deposition in Molten-Salt Reactor Systems: A Survey of MSRE Experience Correlated with Mass Transfer Theory and Applied to a Conceptual 1000-MW(e) MSBR |
-| ORNL-TM~2953 | 6/71   | A. P. Fraas | A New Approach to the Design of
-Steam Generators for Molten Salt Reactor Power Plants |
+| CF-73-3-21   |  3/14  | H. E. McCoy | Use of Maraging Steels for MSRP Applications |
+| CF-73-3-13   |  3/8  | J. R. Tallacksen | Noble-Metal Fission Product Deposition in Molten-Salt Reactor Systems: A Survey of MSRE Experience Correlated with Mass Transfer Theory and Applied to a Conceptual 1000-MW(e) MSBR |
+| ORNL-TM~2953 | 6/71   | A. P. Fraas | A New Approach to the Design of Steam Generators for Molten Salt Reactor Power Plants |
 | ORNL-TM-3039 | 6/73   | R. H. Guymon <br> (editor) | MSRE Systems and Components Performance |
-| ORNL-TM-3041 | 8/73   | R.H. Guymon | MSRE Operator Training and
-Operating Techniques |
+| ORNL-TM-3041 | 8/73   | R.H. Guymon | MSRE Operator Training and Operating Techniques |
 | ORNL-TM-3236 | 6/71   | R. S. Holcomb <br> M. E. Lackey | Performance Characteristics of a Short Reentry Tube Steam Generator at Low Steam Output |
 | ORNL-TM-3718 | 4/72   | T. S. Kress <br> (Thesis) | Mass Transfer Between Small Bubbles and Liquids in Cocurrent Turbulent Pipeline Flow |
 | ORNL-TM-3863 | 1/73   | W.R. Huntley <br> P.A. Gnadt | Design and Operation of a Forced-Circulation Corrosion Test Facility (MSR-FCL-1) Employing Hastelloy N Alloy and Sodium Fluoroborate Salt |
-| ORNL-TM-3884 | 12/72  | R. J. Kedl | The Migration of a Class of Fission
-Products (Noble Metals) in the Molten-Salt Reactor Experiment |
-| ORNL-TM-3939 | 12/72  | P. P. Holz | MSR Component Replacements Using
-Remote Cutting and Welding Techniques |
-| ORNL-TM-3963 | 12/72  | J. R, Engel <br> B. E. Prince | Zero-Power Experiments with </sup>233</sup>U in the MSRE |
+| ORNL-TM-3884 | 12/72  | R. J. Kedl | The Migration of a Class of Fission Products (Noble Metals) in the Molten-Salt Reactor Experiment |
+| ORNL-TM-3939 | 12/72  | P. P. Holz | MSR Component Replacements Using Remote Cutting and Welding Techniques |
+| ORNL-TM-3963 | 12/72  | J. R, Engel <br> B. E. Prince | Zero-Power Experiments with <sup>233</sup>U in the MSRE |
 | 0RNL-TM-4047 | 12/72  | W. R. Grimes <br> Stanley Cantor | Molten Salts as Blanket Fluids in Controlled Fusion Reactors |
-| 0RNL-TM-4056 | 12/72  | L. M. Toth <br> L. O. Gilpatrick | The Equilibrium of Dilute UF3 Solutions Contained in Graphite |
-| 0RNL-TM-4066 | 3/73   | O. L. Smith | Preparation of 123-Group Master
-Cross-Section Library for MSR Calculations |
-| 0RNL-TM-4121 | 12/72  | C. H. Gabbard | Thermal Stress Analysis and Life
-Prediction of MSRE Freeze Flanges |
+| 0RNL-TM-4056 | 12/72  | L. M. Toth <br> L. O. Gilpatrick | The Equilibrium of Dilute UF<sub>3</sub> Solutions Contained in Graphite |
+| 0RNL-TM-4066 | 3/73   | O. L. Smith | Preparation of 123-Group Master Cross-Section Library for MSR Calculations |
+| 0RNL-TM-4121 | 12/72  | C. H. Gabbard | Thermal Stress Analysis and Life Prediction of MSRE Freeze Flanges |
 | 0RNL-TM-4122 | 12/72  | C. H. Gabbard | Development of a Venturi Type Bubble Generator for Use in the Molten-Salt Reactor Xenon Removal System |
-| 0RNL-TM-4172 | 12/72  | J. W. Koger | Corrosion of Type 3041 Stainless
-Steel and Hastelloy N by Mixtures of Boron Trifluoride, Air, and Argon |
+| 0RNL-TM-4172 | 12/72  | J. W. Koger | Corrosion of Type 3041 Stainless Steel and Hastelloy N by Mixtures of Boron Trifluoride, Air, and Argon |
 | 0RNL-TM-4173 | 12/72  | H. E. McCoy | Influence of Various Alloying Additions on the Strength of Nickel-Base Alloys |
-| 0RNL-TM-4174 | 12/72  | H. E. McCoy | Postirradiation Examination of
-Materials from the MSRE |
+| 0RNL-TM-4174 | 12/72  | H. E. McCoy | Postirradiation Examination of Materials from the MSRE |
 | 0RNL-TM-4175 | 5/73   | C. V. Dodd <br> et al | Design of Induction Probes for Measurement of Level of Liquid Metals |
-| 0RNL-TM-4188 | 12/72  | J. W. Koger | Effect of FeF</sub>2</sub> Addition on Mass Transfer in a Hastelloy N-LiF-BeF</sub>2</sub>-UF</sub>4</sub> Thermal Convection Loop System |
-| 0RNL-TM-4189 | 12/72  | J. W. Koger | Evaluation of Hastelloy N Alloys
-After Nine Years Exposure to Both a Molten Fluoride Salt and Air at
-Temperatures from 700 to 560°c |
-| 0RNL-TM-4221 | 12/72  | J. W. Koger | Forced-Circulation Loop for Corrosion Studies: Hastelloy N Compatibility with NaBF</sub>4</sub>-NaF (92-8 mole% ) |
-| ORNl-TM-4255 | 7/73   | G. L. Ragan | Calculation of Multiplication Factor
-Vs Temperature for a MSBR lattice in the HTLTR and Comparison with Experiment |
-| ORNL-TM-4271 | 12/72  | J. W. Koger | Mass Transfer Between Hastelloy N
-in a Molten Sodium Fluoroborate Mixture in a Thermal Convection Loop |
-| ORNL-TM-4272 | 12/72  | J. W. Koger | Compatibility of Brazing Alloys
-in a Molten Salt in a BF</sub>4</sub>-8 mole % in NaF at 610°c |
-| ORNL-TM-4286 | 12/72  | J. W. Koger | Alloy Compatibility with LiF-BeF</sub>2</sub> Salts Containing ThF</sub>4</sub> and UF</sub>4</sub> |
+| 0RNL-TM-4188 | 12/72  | J. W. Koger | Effect of FeF<sub>2</sub> Addition on Mass Transfer in a Hastelloy N-LiF-BeF<sub>2</sub>-UF<sub>4</sub> Thermal Convection Loop System |
+| 0RNL-TM-4189 | 12/72  | J. W. Koger | Evaluation of Hastelloy N Alloys After Nine Years Exposure to Both a Molten Fluoride Salt and Air at Temperatures from 700 to 560°c |
+| 0RNL-TM-4221 | 12/72  | J. W. Koger | Forced-Circulation Loop for Corrosion Studies: Hastelloy N Compatibility with NaBF<sub>4</sub>-NaF (92-8 mole% ) |
+| ORNl-TM-4255 | 7/73   | G. L. Ragan | Calculation of Multiplication Factor Vs Temperature for a MSBR lattice in the HTLTR and Comparison with Experiment |
+| ORNL-TM-4271 | 12/72  | J. W. Koger | Mass Transfer Between Hastelloy N in a Molten Sodium Fluoroborate Mixture in a Thermal Convection Loop |
+| ORNL-TM-4272 | 12/72  | J. W. Koger | Compatibility of Brazing Alloys in a Molten Salt in a BF<sub>4</sub>-8 mole % in NaF at 610°c |
+| ORNL-TM-4286 | 12/72  | J. W. Koger | Alloy Compatibility with LiF-BeF<sub>2</sub> Salts Containing ThF<sub>4</sub> and UF</sub>4</sub> |
 | ORNL-TM-4308 | 3/73   | S. Cantor | Density and Viscosity of Several Molten Fluoride Mixtures |
 | ORNL-4829    | 11/72  | H. E. McCoy | Intergranular Cracking of INOR-8 in the MSRE |
 | ORNL-4079    | 2/73   | J. W. Cooke | Development of the Variable-Gap Technique for Measuring the Thermal Conductivity of Fluoride Salt Mixtures |
 | ORNL-4831    | 3/73   | J. W. Cooke <br> B. Cox | Forced-Convection Heat-Transfer Measurements with a Molten Fluoride Salt Mixture Flowing in a Smooth Tube |
 | ORNL-4874    | 12/72  | J. R. DiStefano <br> A. J. Moorehead | Development of Construction of a Molybdenum Test Stand |
-| ORNL-MIT-145 | 3/72   | D. P. L. Feng <br> J. F. Foulis, Jr. <br> M. T. Whitaker | Flooding Characteristics of a Packed Column with Countercurrent
-Flow of Dense Organic-Aqueous Systems: Part I |
+| ORNL-MIT-145 | 3/72   | D. P. L. Feng <br> J. F. Foulis, Jr. <br> M. T. Whitaker | Flooding Characteristics of a Packed Column with Countercurrent Flow of Dense Organic-Aqueous Systems: Part I |
 | ORNL-MIT-146 | 4/72   | R. F. Bennett,Jr. <br> M. J. Kell | The Effect of Geometrical Variations on the Performance of Mass Transfer Cells |
 | ORNL-MIT-149 | 5/72   | A. D. Schwope <br> J.P. Andre <br> R. F. Bennett, Jr. | Flooding Characteristics of a Packed Column with Countercurrent Flow of Dense Organic-Aqueous Systems, Part II |
 | ORNL-MIT-162 | 12/72  | L. T. Jester <br> N. S. Portnoff <br> Harry Wong | Flooding Characteristics of a Packed Column with Countercurrent Liquid - Liquid Flow with High Density Differences |
