@@ -651,10 +651,10 @@ from Laboratory Records.
 
 | Author | Title |
 |:--|:--|
-| George Brunton                                                    | "The Crystal Structure of KNaThF<sub>6>/sub>" , Acta Crystallographica, B26, 1185, August 1970. |
+| George Brunton                                                    | "The Crystal Structure of KNaThF<sub>6</sub>" , Acta Crystallographica, B26, 1185, August 1970. |
 | A. S. Dworkin <br> M. A. Bredig                                   | "Miscibility of Liquid Metals with Salts--IX. The Pseudobinary Alkali Metal-Metal Halide Systems: Cesium Iodide-Sodium, Cesium Iodide-Lithium, and Lithium Fluoride-Potassium", J. of Physical Chemistry, 74, 3828, (1970). |
 | Arthur S. Dworkin  <br> Max A. Bredig                             | "Enthalpy of Alkali Metal Fluoroborates from 298-1000° K - Enthalpies and Entropies of Fusion and Transition", J. of Chemical & Engineering Data, 15, 505, October 1970. |
-| H. A. Friedman <br> C. F. Weaver <br> w. R. Grimes                | "Synthesis of Anhydrous UF<sub>3>/sub> , J. Inorg. nucl. Chem., 32, 3131, (1970). |
+| H. A. Friedman <br> C. F. Weaver <br> w. R. Grimes                | "Synthesis of Anhydrous UF<sub>3</sub> , J. Inorg. nucl. Chem., 32, 3131, (1970). |
 | T. w. Kerlin <br> S. J. Ball <br> R. C. Steffy                    | "Theoretical Dynamics Analysis of the Molten-Salt Reactor Experiment", Nuclear Technology, 10, 95, February 1971. |
 | T. W. Kerlin <br> S. J. Ball <br> R. C. Steffy <br> M. R. Buckner | "Experiences with Dynamic Testing Methods at the Molten-Salt Reactor Experiment" Nuclear Technology, 10, 103, February 1971. |
 | J. G. Merkle                                                      | "An Ellipsoidal Yield Function for Materials that can Both Dilate and Compact Inelastically", Nuclear Engineering and Design, 12, 425, (1970). |
@@ -1065,7 +1065,7 @@ from Laboratory Records.
 | J. P. Young | "Absorption Spectra of Several 3d Transition Metal Ions in Molten Fluoride Solution," Inorg. Chem., 8, p. 825 (1969). |
 | J. P. Young | "Spectrophotometric Studies of Solute Species in Molten Fluoride Media," Molten Salts, Characterization and Analysis, Marcel Dekker, Inc., New York (1969) |
 | H. R. Bronstein | "Electromotive Force Measurements on Solutions of Rare Earth Metals in Their Molten Halides. I. The Cerium-Cerium Chloride, Praseodymium-Praseodymium Chloride, and Neodymium-Neodymium Chloride Solutions," J. Phy. Chem., 73 p. 1320 (1969). |
-| G. Brunton | "The Crystal Structure of \beta-KCeF<sub>4</sub> ." Acta Cryst., B25, 600 (March 1969). |
+| G. Brunton | "The Crystal Structure of &beta;-KCeF<sub>4</sub> ." Acta Cryst., B25, 600 (March 1969). |
 | P. N. Haubenreich | "Molten Salt Reactor Progress," Nucl. Eng. International, April 1969, p. 325. |
 | J. P. Hammond <br> G. M. Slaughter | "Powder Metallurgy Transition Joint for Joining Graphite to Metals," P/M Newsletter, 3(2), 3 (April 1969). |
 | S. Cantor <br> W. T. Ward <br> C. T. Moynihan | "Viscosity and Density in Molten BeF<sub>2</sub>-LiF Solutions," J. Chem. Physics, Vol 50(7), p. 2874-79 (April 1, 1969). |
@@ -1203,7 +1203,7 @@ from Laboratory Records.
 | MSR-69-4 | 1/69 | W. H. Sides | Calculations of Neutron Density Following Primary Salt Pump Coast-down and Insertion of Negative Reactivity |
 | MSR-69-5 | 1/69 | J. R. Tallackson | Fault Tree Diagrams for MSBR Safety Analyses |
 | MSR-69-6 | 1/69 | R. C. Robertson | Effect of Graphite Life on MSBR Power Production Costs |
-| MSR-69-7 | 1/69 | H. W. Kohn | Distribution of <sup>95</sup>Nb from <sup>95</sup>Zr&to;<sup>95</sup>Nb Decay in Fuel Salt and in Liquid Bismuth |
+| MSR-69-7 | 1/69 | H. W. Kohn | Distribution of <sup>95</sup>Nb from <sup>95</sup>Zr&rarr;<sup>95</sup>Nb Decay in Fuel Salt and in Liquid Bismuth |
 | MSR-69-8 | 1/69 | H. A. Nelms | Vibrations of MSBR Core Elements |
 | MSR-69-9 | 12/69 | A. M. Weinberg | Proposal for Remote Welding Develop-ment Program (Attachment by PPHolz) |
 | MSR-69-10 | 1/69 | A. M. Weinberg | Effect of Cost of <sup>7</sup>Li on the Economics of Molten Salt Reactors |
