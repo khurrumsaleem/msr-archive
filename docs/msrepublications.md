@@ -922,9 +922,9 @@ from Laboratory Records.
 | Author | Title |
 |:--|:--|
 | George Brunton  | "The Crystal Structure of KBF<sub>4</sub> ", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
-| George Brunton  | "Refinement of the Crystal Structure of \beta <sub>1</sub>-K<sub>2</sub>UF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
+| George Brunton  | "Refinement of the Crystal Structure of &beta;<sub>1</sub>-K<sub>2</sub>UF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
 | George Brunton  | "The Crystal Structure of KU<sub>2</sub>F<sub>9</sub>", Acta Crystallographica, Vol. B25, Part 9, September 1969. |
-| George Brunton  | "The Crystal Structure of &gamma; &theta; -Na<sub>2</sub>ZrF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
+| George Brunton  | "The Crystal Structure of &gamma;-Na<sub>2</sub>ZrF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
 | ...             | "Repairing Nuclear-Plant Piping", Power, p. 44, January 1970. |
 | George Brunton  | "The Crystal Structure of Na<sub>3</sub>CrF<sub>6</sub>", Materials Research Bulletin, Vol. 4, pp. 621-626, 1969. |
 | C. F. Baes, Jr. | "The Chemistry and Thermodynamics of Molten Salt Reactor Fuels", presented at A. I. M. E. Symposium, "Reprocessing of Nuclear Fuels", Ames, Iowa, August 25-27, 1969. |
@@ -988,7 +988,7 @@ from Laboratory Records.
 | B. F. Hitch <br> C. F. Baes, Jr.                  | "An Electromotive Force Study of Molten Lithium Fluoride-Beryllium Fluoride Solutions", Inorganic Chemistry, 8, 201, 1969. |
 | Jerry Braunstein                                  | "Comment on Complex Ion Equilibria in Molten Salt Mixtures", Journal of Physical Chemistry, 73, 754, 1969. |
 | G. D. Robbins                                     | "Measurement of Electrical Conductivity in Molten Fluorides. A Survey", Journal of The Electrochemical Society, Vol. 116, No. 6, June 1969. |
-| George Brunton                                    | "The Crystal Structure of \betaKCeF<sub>4</sub> , Acta Crystallographica, Vol. B25, Part 3, March 1969. |
+| George Brunton                                    | "The Crystal Structure of &beta;KCeF<sub>4</sub> , Acta Crystallographica, Vol. B25, Part 3, March 1969. |
 | H. Steinfink <br> C. G. Brunton                   | "The Crystal Structure of CsBeF<sub>3</sub>" , Acta Crystallogra:phica, Vol. B24, Part 6, June 1968. |
 | C. E. Bamberger <br> C. F. Baes <br> J. P. Young  | "Containment of Molten Fluorides in Silica; Effect of Temperature on the Spectrum of U<sup>4+</sup> in Molten LiF-BeF<sub>2</sub> Mixtures", Journal of Inorganic & Nuclear Chemistry, 1967. |
 | S. Cantor <br> W. T. Ward <br> C. T. Moynihan     | "Viscosity and Density in Molten BeF<sub>2</sub>-LiF Solutions", The Journal of Chemical Physics, Vol. 50, No. 7, April 1969. |
@@ -1203,7 +1203,7 @@ from Laboratory Records.
 | MSR-69-4 | 1/69 | W. H. Sides | Calculations of Neutron Density Following Primary Salt Pump Coast-down and Insertion of Negative Reactivity |
 | MSR-69-5 | 1/69 | J. R. Tallackson | Fault Tree Diagrams for MSBR Safety Analyses |
 | MSR-69-6 | 1/69 | R. C. Robertson | Effect of Graphite Life on MSBR Power Production Costs |
-| MSR-69-7 | 1/69 | H. W. Kohn | Distribution of <sup>95</sup>Nb from <sup>95</sup>Zr\to<sup>95</sup>Nb Decay in Fuel Salt and in Liquid Bismuth |
+| MSR-69-7 | 1/69 | H. W. Kohn | Distribution of <sup>95</sup>Nb from <sup>95</sup>Zr&to;<sup>95</sup>Nb Decay in Fuel Salt and in Liquid Bismuth |
 | MSR-69-8 | 1/69 | H. A. Nelms | Vibrations of MSBR Core Elements |
 | MSR-69-9 | 12/69 | A. M. Weinberg | Proposal for Remote Welding Develop-ment Program (Attachment by PPHolz) |
 | MSR-69-10 | 1/69 | A. M. Weinberg | Effect of Cost of <sup>7</sup>Li on the Economics of Molten Salt Reactors |
