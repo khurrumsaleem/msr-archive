@@ -924,7 +924,7 @@ from Laboratory Records.
 | George Brunton  | "The Crystal Structure of KBF<sub>4</sub> ", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
 | George Brunton  | "Refinement of the Crystal Structure of \beta <sub>1</sub>-K<sub>2</sub>UF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
 | George Brunton  | "The Crystal Structure of KU<sub>2</sub>F<sub>9</sub> ", Acta Crystallographica, Vol. B25, Part 9, September 1969. |
-| George Brunton  | "The Crystal Structure of <gamma> -Na<sub>2</sub>ZrF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
+| George Brunton  | "The Crystal Structure of </gamma> -Na<sub>2</sub>ZrF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
 | ...             | "Repairing Nuclear-Plant Piping", Power, p. 44, January 1970. |
 | George Brunton  | "The Crystal Structure of Na<sub>3</sub>CrF<sub>6</sub>", Materials Research Bulletin, Vol. 4, pp. 621-626, 1969. |
 | C. F. Baes, Jr. | "The Chemistry and Thermodynamics of Molten Salt Reactor Fuels", presented at A. I. M. E. Symposium, "Reprocessing of Nuclear Fuels", Ames, Iowa, August 25-27, 1969. |
