@@ -43,8 +43,8 @@ from Laboratory Records.
 | ORNL-TM-3259 | 12/72 | L. E. McNeese | Engineering Development Studies for Molten-Salt Breeder Reactor Processing No. 9 |
 | ORNL-TM-3866 | 10/72 | J. W. Koger | Corrosion and Mass Transfer Characteristics of NaBF<sub>4</sub>-NaF (92-8 mole %) in Hastelloy N |
 | ORNL-TM-4056 | 12/72 | L. M. Toth <br> L. O. Gilpatrick | The Equilibrium of Dilute UF<sub>3</sub> Solution in Graphite |
-| ORNL-TM-4079 | ... | J. W. Cooke <br> B. Cox | Forced-Convection Heat-Transfer Measurements with a Molten Fluoride Salt Mixture Flowing in a Smooth Tube |
-| ORNL-4830 | ... | P. P. Holz | The ORNL Automated Orbital Pipe Welding Systems |
+| ORNL-TM-4079 | 3/73 | J. W. Cooke <br> B. Cox | Forced-Convection Heat-Transfer Measurements with a Molten Fluoride Salt Mixture Flowing in a Smooth Tube |
+| ORNL-4830 | 1/73 | P. P. Holz | The ORNL Automated Orbital Pipe Welding Systems |
 | ORNL-MIT-174 | 5/73 | D. J. Conklin <br> J. G. Arquette <br> L. C. Lamadrid | Axial Mixing in Open Bubble Columns -- Part V, Mass Transfer Effects |
 | ORNL-MIT-175 | 9/73 | J. J. Toman <br> E. Kam-Lum <br> J. Donohue <br> M. Yonezawa | Axial Backmixing in an Open Bubble Column, Part VI: Mass Transfer Effects |
 | US Patent No. 3,733,130 | 5/73 | J. P. Young | Slotted Probe for Spectroscopic Measurements |
@@ -84,13 +84,13 @@ from Laboratory Records.
 | MSR-73-2 | 1/73 | J. H. Shaffer | Salt Preparation and Fuel Pin Fill Operations for MSR-ORR Capsule TeGen-1 |
 | MSR-73-3 | 1/73 | P. N. Haubenreich | MSRP Documentation - Preliminary Plans for Closeout |
 | MSR-73-4 | 1/73 | H. E. McCoy | Proposed Experimental Plan for Fluoroborate Corrosion Work |
-| MSR-73-5 | 1/73 | T. A. Flynn <br> (Ebasco) | Ebasco - Narrative Report for December 1972 - January 1973 |
-| MSR-73-6 | 1/73 | R. E. Hollingsworth <br> (AEC) | Termination of Support for the MSRP in FY 1974 |
+| MSR-73-5 | 1/73 | T. A. Flynn | Ebasco - Narrative Report for December 1972 - January 1973 |
+| MSR-73-6 | 1/73 | R. E. Hollingsworth | Termination of Support for the MSRP in FY 1974 |
 | MSR-73-7 | 2/73 | P. N. Haubenreich | A Catalog of Dynamics Analyses for Circulating-Fuel Reactors |
 | MSR-73-8 | 2/73 | P. N. Haubenreich | Future Requirements for MSRE Surveillance and Disposal |
 | MSR-73-9 | 1/73 | M. W. Rosenthal | MSRP Monthly Report for December 1972 and January 1973 |
 | MSR-73-10 | 2/73 | P. N. Haubenreich | TeGen-1 Closeout |
-| MSR-73-11 | 1/73 | R. J. Hart (ORO) | Termination of Molten Salt Reactor Program |
+| MSR-73-11 | 1/73 | R. J. Hart | Termination of Molten Salt Reactor Program |
 | MSR-73-12 | 2/73 | G. E. Creek <br> C. E. Bamberger | The Wetting of Graphite by Bismuth and Bismuth-Lithium Alloys as Determined by the Sessile Drop Method |
 | MSR-73-13 | 2/73 | P. N. Haubenreich | Storage of MSRP Documents |
 | MSR-73-14 | 2/73 | E. S. Bettis | Revised Ideas on the MSBR Design Since the Conceptual Design Report on the Single-Fluid Breeder was Issued |
@@ -98,7 +98,7 @@ from Laboratory Records.
 | MSR-73-16 | 1/73 | H. A. McLain | The CSTF Deuterium Experiment for the MSR Program |
 | MSR-73-17 | 3/73 | R. P. Wichner | Some Consequences of Tubing Failure in the MSBR Heat Exchanger |
 | MSR-73-18 | 3/73 | R. H. Guymon| Proposal for Changes in MSRE Surveillance |
-| MSR-73-19 | 3/73 | Milton Shaw <br> (AEC) | Termination of Molten Salt Reactor Program |
+| MSR-73-19 | 3/73 | Milton Shaw | Termination of Molten Salt Reactor Program |
 | MSR-73-20 | 5/73 | F. L. Culler | Disposition of MSR Capital Costs |
 | MSR-73-21 | 8/73 | S. Cantor | Physical Properties of FLiNaK |
 | CF-72-6-12 | 6/72 | R. P. Wichner | Sidestream Processing for Continuous Iodine and Xenon Removal from the MSBR Fuel |
@@ -115,10 +115,10 @@ from Laboratory Records.
 | CF-73-3-21 | 3/73 | H. E. McCoy | Use of Maraging Steels for MSRP Applications |
 | CF-73-3-13 | 3/73 | J. R. Tallacksen | Noble-Metal Fission Product Deposition in Molten-Salt Reactor Systems: A Survey of MSRE Experience Correlated with Mass Transfer Theory and Applied to a Conceptual 1000-MW(e) MSBR |
 | ORNL-TM-2953 | 6/71 | A. P. Fraas | A New Approach to the Design of Steam Generators for Molten Salt Reactor Power Plants |
-| ORNL-TM-3039 | 6/73 | R. H. Guymon <br> (editor) | MSRE Systems and Components Performance |
+| ORNL-TM-3039 | 6/73 | R. H. Guymon (editor) | MSRE Systems and Components Performance |
 | ORNL-TM-3041 | 8/73 | R. H. Guymon | MSRE Operator Training and Operating Techniques |
 | ORNL-TM-3236 | 6/71 | R. S. Holcomb <br> M. E. Lackey | Performance Characteristics of a Short Reentry Tube Steam Generator at Low Steam Output |
-| ORNL-TM-3718 | 4/72 | T. S. Kress <br> (Thesis) | Mass Transfer Between Small Bubbles and Liquids in Cocurrent Turbulent Pipeline Flow |
+| ORNL-TM-3718 | 4/72 | T. S. Kress | Mass Transfer Between Small Bubbles and Liquids in Cocurrent Turbulent Pipeline Flow |
 | ORNL-TM-3863 | 1/73 | W. R. Huntley <br> P. A. Gnadt | Design and Operation of a Forced-Circulation Corrosion Test Facility (MSR-FCL-1) Employing Hastelloy N Alloy and Sodium Fluoroborate Salt |
 | ORNL-TM-3884 | 12/72 | R. J. Kedl | The Migration of a Class of Fission Products (Noble Metals) in the Molten-Salt Reactor Experiment |
 | ORNL-TM-3939 | 12/72 | P. P. Holz | MSR Component Replacements Using Remote Cutting and Welding Techniques |
@@ -153,9 +153,9 @@ from Laboratory Records.
 
 | Author | Title |
 |:--|:--|
-| Bamberger, C. E. <br> Baes, C. P. | "Equilibria of SiF<sub>4</sub> with SiO<sub>2</sub>, Be<sub>2</sub>SiO<sub>4</sub>, and BeO in Molten Li<sub>2</sub>BeF<sub>4</sub>" J. of the American Ceramic Society, .2,2., 55 (11), 564-68, Nov. 1972, |
-| Bamberger, C. E. <br> Baes, C. P. | "The Oxide Chemistry of Protactinium in Molten Fluorides"~ J; ·Inorg. Nucl. Chem., 35, 433-449, 1973 , |
-| Cantor, S. | "Solubility of BF<sub>3</sub> in Salts of Molten-Salt Reactor Interest" J; of Nuclear Materials, 47, 177-186, 1973, |
+| Bamberger, C. E. <br> Baes, C. P. | "Equilibria of SiF<sub>4</sub> with SiO<sub>2</sub>, Be<sub>2</sub>SiO<sub>4</sub>, and BeO in Molten Li<sub>2</sub>BeF<sub>4</sub>", J. of the American Ceramic Society, .2,2., 55 (11), 564-68, Nov. 1972, |
+| Bamberger, C. E. <br> Baes, C. P. | "The Oxide Chemistry of Protactinium in Molten Fluorides", J. Inorg. Nucl. Chem., 35, 433-449, 1973 , |
+| Cantor, S. | "Solubility of BF<sub>3</sub> in Salts of Molten-Salt Reactor Interest", J. of Nuclear Materials, 47, 177-186, 1973, |
 | Perry, A. M. <br> Weinberg, A. M. | "Thermal Breeder Reactors", Annual Review of Nuclear Science, 22, 317-354, 1972. |
 | Taube, M. <br> Liqou, J. | "Molten Chlorides Fast Breeder Reactor Problems and Possibilities", EIR-Bericht Nr. 215, Eidg. Institut für Reaktorforschung Würenlingen, Schweiz, Juni 1972. |
 | Went, J. J. <br> Wiechers, W. K. | "The Impact of Fuel Cycle Economics on the Future Development of Nuclear Power", Advances in Nuclear Science and Technology, 6, 1972, |
@@ -189,16 +189,16 @@ from Laboratory Records.
 | ORNL-TM-3777 | 12/72 | E. G. Bohlmann | Heat Transfer Salt for High Temperature Steam Generation |
 | ORNL-TM-3996 | 11/72 | J. C. Pigg <br> R. A. Weeks | The Effect of Irradiation on the EPR and Optical Absorption Spectra of Li<sub>2</sub>BeF<sub>4</sub> |
 | ORNL-4812 | 8/72 | M. W. Rosenthal <br> et al | The Development Status of Molten-Salt Breeder Reactors |
-| ND/72/122 | 10/72 | Foster Wheeler | Design Studies of Steam Generators for M3Rs, Monthly Progress Report No. 7, Sept. 4-30, 1972 |
+| ND-72-122 | 10/72 | Foster Wheeler | Design Studies of Steam Generators for M3Rs, Monthly Progress Report No. 7, Sept. 4-30, 1972 |
 
 **Papers Relating to MSRs**
 
 | Author | Title |
 |:--|:--|
 | Bates, J. B. <br> Young, J. P. <br> Murray, M. M. | "Stability of BF<sub>3</sub>OH<sup>-</sup> Ion in Molten and Solid NaBF<sub>4</sub> and NaF-NaBF<sub>4</sub> Eutectics", Inorg. Nucl. Chem., 34, 1972. |
-| Kolody, P. W. | "The Feasibility of a Liquid Core Fuel Element" , MIT Thesis, August 1972. |
+| Kolody, P. W. | "The Feasibility of a Liquid Core Fuel Element", MIT Thesis, August 1972. |
 | Quist, A. S. <br> Bates, J. B. <br> Boyd, G. E. | "Raman Spectra of Vitreous, Polycrystalline, and Molten BeF<sub>2</sub> to 630° C and the Infrared Spectrum of Vitreous BeF<sub>2</sub> at 25°C", Spectrochimica Acta, 28A, 1972. |
-| Quist, A. S. <br> Bates, J. B. <br> Boyd, G. E. | "Raman Spectra of Tetrafluoroberyllate Ion in Molten Sodium Fluoride and Lithium Fluoride to 686°" , J. of Physical Chem., 76, 1972. |
+| Quist, A. S. <br> Bates, J. B. <br> Boyd, G. E. | "Raman Spectra of Tetrafluoroberyllate Ion in Molten Sodium Fluoride and Lithium Fluoride to 686°", J. of Physical Chem., 76, 1972. |
 | Thoma, R. E. | "High-Temperature Phase Equilibria in Lithium-, Sodium-, and Thorium-Fluoride Mixtures", J. Inorg. Nucl. Chem., 34, 1972. |
 
 
@@ -215,8 +215,8 @@ from Laboratory Records.
 | MSR-72-64 | 10/72 | C. W. Collins | Pressure Transmitters-Transducers for the Molten-Salt Program |
 | MSR-72-65 | 10/72 | J. R. Engel | Estimated Helium Content of Hastelloy-N Specimens Irradiated in HFIR |
 | MSR-72-66 | 10/72 | P. N. Haubenreich | Some MSRE Fuel Loop Parameters Use-ful in Analyzing Fission Product Data |
-| MSR-72-67 | 9/72 | T. A. Flynn <br> Ebasco | Ebasco Narrative Report for September 1972 |
-| MSR-72-68 | 10/72 | T. A. Flynn <br> Ebasco | Ebasco Narrative Report for October 1972 |
+| MSR-72-67 | 9/72 | T. A. Flynn | Ebasco Narrative Report for September 1972 |
+| MSR-72-68 | 10/72 | T. A. Flynn | Ebasco Narrative Report for October 1972 |
 | CF-71-9-47 | 9/72 | D. D. Sood <br> et al | Some Aspects of Thermodynamics of LiF-BeF<sub>2</sub> from EMF Measurements and the Oxide Chemistry of Protactinium in Molten Fluorides |
 | CF-72-5-32 | 5/72 | D. D. Sood | Engineering Studies on Reductive Extraction and Oxide Precipitation Techniques for Processing Molten Salt Reactor Fuels |
 | ORNL-TM-729 (Pt. IIB) | 9/27 | R. L. Moore | MSRE Design and Operations Report Part IIB. Nuclear and Process Instrumentation |
@@ -227,8 +227,8 @@ from Laboratory Records.
 | ORNL-TM-3763 | 4/72 | L. M. Ferris | Estimated Behavior of Titanium in MSBR Chemical Processing Systems |
 | ORNL-TM-3767 | 5/72 | O. W. Burke | Hybrid Computer Simulation of the MSBR |
 | ORNL-TM-3866 | 10/72 | J. W. Koger | Corrosion and Mass Transfer Character-istics of NaBF<sub>4</sub> - NaF (92-8 mole %) in Hastelloy N |
-| ND/72/92 | 9/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 6, July 31 - Sept. 1, 1972 |
-| BNWL/1672 | 6/72 | Battelle | High-Temperature Graphite Irradiations: 550 to 1450°C |
+| ND-72-92 | 9/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 6, July 31 - Sept. 1, 1972 |
+| BNWL-1672 | 6/72 | Battelle | High-Temperature Graphite Irradiations: 550 to 1450°C |
 
 **Papers Relating to MSRs**
 
@@ -249,15 +249,15 @@ from Laboratory Records.
 | MSR-72-53 | 8/72 | A. M. Weinberg | Status of MSBR Development |
 | MSR-72-54 | 7/72 | D. B. Trauger | RDT's Evaluation Report on the MSBR |
 | MSR-72-55 | 7/72 | D. B. Trauger | Incident Report on Plugging of FCL-2 Drain Lines |
-| MSR-72-56 | 7/72 | T. A. Flynn <br> Ebasco | Ebasco Narrative Report for July 1972 |
-| MSR-72-57 | 8/72 | T. A. Flynn <br> Ebasco | Ebasco Narrative Report for August 1972 |
+| MSR-72-56 | 7/72 | T. A. Flynn | Ebasco Narrative Report for July 1972 |
+| MSR-72-57 | 8/72 | T. A. Flynn | Ebasco Narrative Report for August 1972 |
 | MSR-72-58 | 9/72 | M. W. Rosenthal | MSRP Monthly Report for August 1972 |
 | CF-72-6-17 | 6/72 | A. I. Krakoviak | Final Systems Design Description for an MSR Coolant-Salt Technology Facility (CSTF) (EJN-10578) |
-| ORNL-TM-3151 | 8/72 | A. Houtzeel <nr> F. F. Dyer | A Study of Fission Products in the Molten-Salt Reactor Experiment by Gamma Spectrometry |
+| ORNL-TM-3151 | 8/72 | A. Houtzeel <br> F. F. Dyer | A Study of Fission Products in the Molten-Salt Reactor Experiment by Gamma Spectrometry |
 | ORNL-TM-3848 | 7/72 | W. L. Greenstreet <br> et al | The Behavior of Graphite Under Biaxial Tension |
-| ND/72/55 | 6/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 3, April 1 - May 31, 1972 |
-| ND/72/76 | 7/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 4, June 1 - June 30, 1972 |
-| ND/72/90 | 8/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 5, July 1 - July 28, 1972 |
+| ND-72-55 | 6/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 3, April 1 - May 31, 1972 |
+| ND-72-76 | 7/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 4, June 1 - June 30, 1972 |
+| ND-72-90 | 8/72 | Foster Wheeler | Design Studies of Steam Generators for MSRs, Monthly Progress Report No. 5, July 1 - July 28, 1972 |
 
 
 **Papers Relating to MSRs**
@@ -276,7 +276,7 @@ from Laboratory Records.
 | MSR-72-39 | 5/72 | P, N. Haubenreich | MSRP List of Scheduled Activities and Commitments |
 | MSR-72-40 | 5/72 | D. B. Trauger | Transmittal of Incident Report on Lubri-cation Oil Leakage from Shaft Region of Molten Salt ALPHA Pump |
 | MSR-72-41 | 5/72 | D. B. Trauger | French Interest in Molten-Salt Reactor |
-| MSR-72-42 | 4/72 | T. A. Flynn <br> Ebasco | Narrative Report for April 1972 |
+| MSR-72-42 | 4/72 | T. A. Flynn | Narrative Report for April 1972 |
 | MSR-72-43 | 5/72 | J, R. Engel | Nuclear Data for Fission Products with Mass 135 |
 | MSR-72-44 | 6/72 | M. W. Rosenthal | MSRP Monthly Report for May 1972 |
 | MSR-72-45 | 6/72 | J, R. Engel | Relative Importances of Nickel and Boron to Helium Production in Hastelloy-N |
@@ -290,7 +290,7 @@ from Laboratory Records.
 | CF-72-5-18 | 5/72 | S. E. Beall <br> M. W. Rosenthal | Report on Visit to India May 2-5, 1972, Plus Stopover in Paris on April 22, 1972 |
 | CF-72-5-50 | 5/72 | S. E. Beall <br> M. W. Rosenthal <br> L. Nelson | Report of Foreign Travel to Pakistan , April 24--May 1, 1972 |
 | ORNL-TM-3832 | 6/72 | E. S. Bettis <br> L. G. Alexander <br> H. L. Watts | Design Studies of a Molten-Salt Reactor Demonstration Plant |
-| ND/72/22 | 4/72 | Foster-Wheeler | Design Studies of Steam Generators for Molten Salt Reactors, Monthly Progress Report #2 |
+| ND-72-22 | 4/72 | Foster-Wheeler | Design Studies of Steam Generators for Molten Salt Reactors, Monthly Progress Report #2 |
 | NP-19254 | 1/72 | B.A.R.C. | Molten Salt Breeder Reactor Concept Quarterly Report for the Period Ending Jan. 31, 1972 |
 
 
@@ -302,7 +302,7 @@ from Laboratory Records.
 | Smith, F. J | "The Solubilities of Thorium and Neodymium in Liquid Lithium-Bismuth Solutions", J. Less-Common Metals, 27, 195-200, (1972) |
 | Dworkin, A. S | "Enthalpy of Uranium Tetrafluoride from 298-1400°K: Enthalpy and Entropy of Fusion", J. Inorg. Nucl. Chem., 34, 135-38, (1972) |
 | McNeese, L. E. <br> et al | "Reductive Extraction Processing of Molten-Salt Fuels for Breeder Reactors", Proceedings of the International Solvent Extraction Conf., (1971) |
-| Watson, J .S. <br> ... | "Axial Dispersion in Packed Columns During Countercurrent Flow", I&EC Process Design & Development, 11, 120-21, (1972) |
+| Watson, J .S. <br> L. E. McNeese | "Axial Dispersion in Packed Columns During Countercurrent Flow", I&EC Process Design & Development, 11, 120-21, (1972) |
 
 ### March - April, 1972
 
@@ -312,18 +312,18 @@ from Laboratory Records.
 | MSR-72-18 | 3/72 | P. N. Haubenreich | Notes on FV/105 Service History |
 | MSR-72-19 | 2/72 | H. N. Sethna <br> IAEC | Technical Exchange Proposal and 4-yr IAEC Program |
 | MSR-72-20 | 3/72 | P. N, Haubenreich | Amounts of Metal in Contact with Fuel Salt in MSRE |
-| MSR-72-21 | 2/72 | T. A. Flynn <br> Ebasco | Ebasco - Narrative Report for February 1972 |
+| MSR-72-21 | 2/72 | T. A. Flynn | Ebasco - Narrative Report for February 1972 |
 | MSR-72-22 | 2/72 | M. W. Rosenthal | MSR Gas System Technology Facility |
 | MSR-72-23 | 3/72 | Dunlap Scott <br> J. L. Crowley | Monthly Progress Report from Foster Wheeler Corporation |
 | MSR-72-24 | 3/72 | R. E. Thoma | The Phase Diagram of the Lithium Fluoride Beryllium Fluoride System |
 | MSR-72-25 | 3/72 | P. N. Haubenreich | Surface Concentrations of Tellurium in MSBR Reference Design |
-| MSR-72-26 | 3/72 | T. A. Flynn <br> Ebasco | Ebasco - Task II Work Plan |
+| MSR-72-26 | 3/72 | T. A. Flynn | Ebasco - Task II Work Plan |
 | MSR-72-27 | 3/72 | M. I. Lundin | Reply to Questions Regarding Xenon Removal |
 | MSR-72-28 | 3/72 | C. H. Gabbard | Proposed Changes in the Design Criteria for the GSTF Bubble Generator |
-| MSR-72-29 | 3/72 | M. Shaw <br> USAEC | Preparation of System Design Descrip-tions (RDT F 1-2 Dated March 1972) |
+| MSR-72-29 | 3/72 | M. Shaw | Preparation of System Design Descrip-tions (RDT F 1-2 Dated March 1972) |
 | MSR-72-30 | 4/72 | M. W. Rosenthal | MSRP Monthly Report for March 1972 |
 | MSR-72-31 | 3/72 | D. B. Trauger | Effect of Mid-Year Budget Changes on the Molten-Salt Reactor Program |
-| MSR-72-32 | 4/72 | T. A. Flynn <br> Ebasco | Ebasco-Narrative Report for March 1972 |
+| MSR-72-32 | 4/72 | T. A. Flynn | Ebasco-Narrative Report for March 1972 |
 | MSR-72-33 | 4/72 | P. N. Haubenreich | Tentative Criteria for In-Pile Experi-ments on Cracking of Metal Exposed to MSR Fuel Salt |
 | MSR-72-34 | 4/72 | D. B. Trauger | Molten-Salt Reactor Gas System Tech-nology Facility |
 | ORNL-4658 | 12/71 | R. E. Thoma | Chemical Aspects of MSRE Operations |
@@ -353,7 +353,7 @@ from Laboratory Records.
 | MSR-72-8 | 1/72 | D. B. Trauger | Alternate Methods of Disposal of MSRE Fuel Salt |
 | MSR-72-9 | 1/72 | D. B. Trauger | Status of the Molybdenum Loop for Molten-Salt Processing Experiments |
 | MSR-72-10 | 2/72 | D. B. Trauger | Status of Reports and Papers on Subjects Relating to the MSRE |
-| MSR-72-11 | 1/72 | T. A. Flynn, Jr. <br> Ebasco | Narrative Report for January 1972 |
+| MSR-72-11 | 1/72 | T. A. Flynn, Jr. | Narrative Report for January 1972 |
 | MSR-72-12 | 2/72 | R. B. Briggs | Holdup of Tritium by OT<sup>-</sup> in Sodium Fluoroborate |
 | MSR-72-13 | 2/72 | D. B. Trauger | Molten-Salt Reactor Reductive Extraction Process Facility |
 | MSR-72-14 | 2/72 | P. N. Haubenreich | MSRP List of Scheduled Activities and Commitments |
@@ -388,7 +388,7 @@ from Laboratory Records.
 
 | Document Number | Date | Author | Title |
 |:--|:--|:--|:--|
-| MSR-71-90 | 9/71 | D. G. H. Latzko <br> (Delft) | Summary Aims of Delft Molten Salt Project (DMSP) |
+| MSR-71-90 | 9/71 | D. G. H. Latzko | Summary Aims of Delft Molten Salt Project (DMSP) |
 | MSR-71-91 | 10/71 | M. W. Rosenthal | MSRP Monthly Report for October 1971 |
 | MSR-71-92 | 11/71 | F. C. Zapp | A Variable Flow Restrictor for Controll-ing Pressures in the GSTF Main Loop |
 | MSR-71-93 | 11/71 | D. B. Trauger | Transmittal of Copies of Molten-Salt Group Evaluation of MSBRs |
@@ -425,7 +425,7 @@ from Laboratory Records.
 | McCoy, H. E. <br> Gehlback, R. E. <br> McNabb, B. | "Development of New Nickel-Base Alloys for High-Temperature Service", Space Shuttle Material, Vol. 3, Presented at National Society of Aero Space Materials and Process Engineers Technical Conference, Oct. 5-7, 1971 (Huntsville, Alabama). |
 | Rosenthal, M. W. <br> et al | "Recent Progress in Molten-Salt Reactor Development", Atomic Energy Review, IX, No. 3, 601-650, 1971. |
 | Sessions, C. E. <br> McCoy, H. E. | "Effect of Carbon on Irradiation Damage in Titanium-Modified Hastelloy N", ANS Transactions, 14, 602-03, (1971). |
-| Koger, J. W. <br> Evans, R. B. <br> DeVan, J. H. | "Corrosion in Polythermal Liquid Metal and Fused Salt Loop Systems" , ANS Transactions, 14, 627, (1971). |
+| Koger, J. W. <br> Evans, R. B. <br> DeVan, J. H. | "Corrosion in Polythermal Liquid Metal and Fused Salt Loop Systems", ANS Transactions, 14, 627, (1971). |
 
 
 ### August - September, 1971
@@ -509,7 +509,7 @@ from Laboratory Records.
 |:--|:--|
 | Bamberger, C. E. <br> Ross, R. G. <br> Baes, C. F. | "The Oxide Chemistry of Plutonium in Molten Fluorides and the Free Energy of Formation of PuF<sub>3</sub> and PuF<sub>4</sub>", J. Inorg. Nucl. Chem., 33, 767-776, 1971. |
 | Braunstein, J. <br> Gleb Mamantov <br> G. P. Smith | "Advances in Molten Salt Chemistry", Vol. 1, Plenum Press, New York - London, 1971. |
-| Brunton, George | "The Crystal Structure of CsU<sub>6</sub>F<sub>25</sub>" , Acta Cryst., B27, 245, January 1971. |
+| Brunton, George | "The Crystal Structure of CsU<sub>6</sub>F<sub>25</sub>", Acta Cryst., B27, 245, January 1971. |
 | Brunton, George | "The Crystal Structure of Li<sub>2</sub>MoF<sub>6</sub>", Mat. Res. Bull., 6, 555-560, 1971. |
 | McNeese, L. E. <br> Ferris, L. M. | "Molten-Salt Breeder Reactor Fuel Processing", ANS Transactions, 14, 84, (1971). |
 | Prince, B. E. <br> Engel, J. R. <br> Gabbard, C. H. | "On-Line Reactivity Balance Monitoring in the MSRE", ANS Transactions, 14, 84, (1971) |
@@ -537,7 +537,7 @@ from Laboratory Records.
 | MSR-71-48 | 4/71 | R. H. Guymon | CSTF Criteria - EJN-10580 |
 | MSR-71-49 | 5/71 | M. W. Rosenthal | MSRP Monthly Report for April 1971 |
 | MSR-71-50 | 3/71 | A. N. Smith | Preliminary Design Description for Off- Gas System, Gas System Test Facility, Building 9201-3 |
-| MSR-71-51 | 5/71 | J. W. Crawford <br> (RDT) | Approval of Gas System Technology Loop and Comments on CSDD |
+| MSR-71-51 | 5/71 | J. W. Crawford | Approval of Gas System Technology Loop and Comments on CSDD |
 | MSR-71-52 | 5/71 | A. M. Perry | The Use of Plutonium in Molten Salt Reactors |
 | MSR-71 53 | 5/71 | J. R. Engel <br> O. L. Smith | Reactivity Effects of Bubbles in Molten-Salt Reactors |
 | MSR-71-54 | 5/71 | David L. Clark | Motor-Generator Set for Use with the CSTF and the GSTF |
@@ -551,7 +551,7 @@ from Laboratory Records.
 | ORNL-TM-3311 | 5/71 | Sen-I Chang | A Systematic Procedure for Determining System Parameters by Performance Index Minimization |
 | ORNL-TM-3242 | 5/71 | S. J. Chang <br> J. A. Carpenter <br> D. W. Altom | Viscoelastic Analysis of Irradiated Graphite with Variable Creep Coefficient |
 | BNWL-B-83 | 4/71 | Battelle-Northwest | Technical Activities Quarterly Report - Nuclear Graphite Program |
-| BNWL-B-85 | ... | Battelle-Northwest | Pre-Experiment Analysis for MSBR-1 Experiment |
+| BNWL-B-85 | 4/71 | E. P. Lippincott <br> E. C. David <br> Battelle-Northwest | Pre-Experiment Analysis for MSBR-1 Experiment |
 
 **Papers Relating to MSRs**
 
@@ -582,7 +582,7 @@ from Laboratory Records.
 | MSR-71-22 | 2/71 | M. W. Rosenthal | MSRP Monthly Report for February 1971 |
 | MSR-71-23 | 2/71 | M. J. Bell | Fission Product Inventories of Liquid Metal Cooled Fast Breeder and Molten-Salt Breeder Reactors |
 | MSR-71-24 | 3/71 | R. E. Helms | E. I. du Pont de Nemours and Company and Their Use of Hitec (HTS) Salt |
-| MSR-71-25 | 2/71 | R. E. Kosiba <br> (RDT) | Industrial Program for Design of Steam Generators for Molten-Salt Reactors |
+| MSR-71-25 | 2/71 | R. E. Kosiba | Industrial Program for Design of Steam Generators for Molten-Salt Reactors |
 | MSR-71-26 | 3/71 | C. H. Gabbard | Bubble Formation Test in the MSR Fuel Salt |
 | MSR-71-27 | 3/71 | R. B. Briggs | An Assessment of the Effects of Leakage of Water from the Steam-Raising Equipment on Corrosion in the Secondary System of an MSBR |
 | MSR-71-28 | 3/71 | J. L. Crowley | Support for MSRP Steam Generator Development Bases Report |
@@ -591,7 +591,7 @@ from Laboratory Records.
 | MSR-71-31 | 3/71 | M. W. Rosenthal | MSRP Monthly Report for March 1971 |
 | MSR-71-32 | 3/71 | C. H. Gabbard | Calibration of MSRE Coolant Salt Flow Transmitters and Square Root Converters |
 | MSR-71-33 | 3/71 | D. B. Trauger | Plans for MSRE Decommissioning Program Phases III and IV (Storage and Ultimate Disposal) |
-| MSR-71-34 | 3/71 | R. E. Kosiba <br> (RDT) | CSDD for Coolant Salt Facility |
+| MSR-71-34 | 3/71 | R. E. Kosiba | CSDD for Coolant Salt Facility |
 | CF-70-10-20 | 10/70 | J. L. Crowley <br> R. E. Helms <br> J. P. Sanders | Conceptual System Design Description of Steam-Generator Tube Test Stand for the Molten-Salt Reactor Program |
 | ORNL-TM-3137 | 2/71 | L. E. McNeese | Engineering Development Studies for Molten-Salt Breeder Reactor Processing No. 2 |
 | ORNL-TM-3145 | 3/71 | J. R. Tallacksen | Thermal Radiation Transfer of Afterheat in MSBR Heat Exchangers |
@@ -612,7 +612,7 @@ from Laboratory Records.
 |:--|:--|:--|:--|
 | MSR-70-90 | 11/70 | P. N. Haubenreich | MSRE Equipment Available for Other Use |
 | MSR-70-91 | 12/70 | M. W. Rosenthal | MSRP Monthly Report for November 1970 |
-| MSR-70-92 | 11/70 | R. V. Anderson <br> (Portsmouth) | Review of U Measurement Data Recovered from MSRE Absorbers |
+| MSR-70-92 | 11/70 | R. V. Anderson | Review of U Measurement Data Recovered from MSRE Absorbers |
 | MSR-70-93 | 12/70 | L. M. Ferris <br> et al | Future Work on Oxide Precipitation Methods for Processing MSBR Fuels |
 | MSR-70-94 | 12/70 | J. L. Crowley <br> R. E. Helms | Visit to Hooker Chemical Corporation of Niagara Concerning Their Use of Hitec (HTS) Salt |
 | MSR-70-95 | 11/70 | H. E. McCoy | Comments on Engineering Test Loops (Coolant and Gas Injection) |
@@ -652,14 +652,14 @@ from Laboratory Records.
 
 | Author | Title |
 |:--|:--|
-| George Brunton | "The Crystal Structure of KNaThF<sub>6</sub>" , Acta Crystallographica, B26, 1185, August 1970. |
+| George Brunton | "The Crystal Structure of KNaThF<sub>6</sub>", Acta Crystallographica, B26, 1185, August 1970. |
 | A. S. Dworkin <br> M. A. Bredig | "Miscibility of Liquid Metals with Salts--IX. The Pseudobinary Alkali Metal-Metal Halide Systems: Cesium Iodide-Sodium, Cesium Iodide-Lithium, and Lithium Fluoride-Potassium", J. of Physical Chemistry, 74, 3828, (1970). |
 | Arthur S. Dworkin <br> Max A. Bredig | "Enthalpy of Alkali Metal Fluoroborates from 298-1000° K - Enthalpies and Entropies of Fusion and Transition", J. of Chemical & Engineering Data, 15, 505, October 1970. |
 | H. A. Friedman <br> C. F. Weaver <br> w. R. Grimes | "Synthesis of Anhydrous UF<sub>3</sub>", J. Inorg. nucl. Chem., 32, 3131, (1970). |
 | T. w. Kerlin <br> S. J. Ball <br> R. C. Steffy | "Theoretical Dynamics Analysis of the Molten-Salt Reactor Experiment", Nuclear Technology, 10, 95, February 1971. |
-| T. W. Kerlin <br> S. J. Ball <br> R. C. Steffy <br> M. R. Buckner | "Experiences with Dynamic Testing Methods at the Molten-Salt Reactor Experiment" Nuclear Technology, 10, 103, February 1971. |
+| T. W. Kerlin <br> S. J. Ball <br> R. C. Steffy <br> M. R. Buckner | "Experiences with Dynamic Testing Methods at the Molten-Salt Reactor Experiment", Nuclear Technology, 10, 103, February 1971. |
 | J. G. Merkle | "An Ellipsoidal Yield Function for Materials that can Both Dilate and Compact Inelastically", Nuclear Engineering and Design, 12, 425, (1970). |
-| L. F. C. Reichle | "The Molten Salt Group, Ebasco News", October 1970. |
+| L. F. C. Reichle | "The Molten Salt Group", Ebasco News, October 1970. |
 | H. Susskind <br> C. J. Raseman | "Power Plant Operating and Maintenence Costs", Brookhaven National Laboratory, BNL 50235, (T-572), April 1970 |
 
 
@@ -728,7 +728,7 @@ from Laboratory Records.
 | MSR-70-74 | 9/70 | W. Fulkerson | Mo Availability |
 | ORNL-TM-2999 | 4/70 | B. H. Webster | Quality-Assurance Practices in Construction and Maintenance of the Molten-Salt Reactor Experiment |
 | ORNL-TM-3027 | 6/70 | J. R. Engel <br> P. N. Haubenreich <br> A. Houtzeel | Spray, Mist, Bubbles and Foam in the Molten Salt Reactor Experiment |
-| ORNL-4528 | ... | R. C. Robertson <br> R. B. Briggs <br> O. L. Smith <br> E. S. Bettis | Two-Fluid Molten-Salt Breeder Reactor Design Study (Status as of January 1, 1968) |
+| ORNL-4528 | 8/70 | R. C. Robertson <br> R. B. Briggs <br> O. L. Smith <br> E. S. Bettis | Two-Fluid Molten-Salt Breeder Reactor Design Study (Status as of January 1, 1968) |
 
 
 **Papers Relating to MSRs**
@@ -868,7 +868,7 @@ from Laboratory Records.
 | Author | Title |
 |:--|:--|
 | L. M. Toth <br> G. D. Brunton <br> G. P. Smith | "The Structure and Spectrum of Potassium Hexafluoromolybdate (III)", Inorganic Chemistry, 8, 2694 (1969). |
-| Jerry Braunstein | "States, Indistinguishability, and the Formula S=k In Win Thermodynamics" Journal of Chemical Education, 46, 719-721, October, 1969. |
+| Jerry Braunstein | "States, Indistinguishability, and the Formula S=k In Win Thermodynamics", Journal of Chemical Education, 46, 719-721, October, 1969. |
 | E. L. Compere <br> H. C. Savage <br> J. M. Baker | "High Intensity Gamma Irradiation of Molten Sodium Fluoroborate-Sodium Fluoride Eutectic Salt", Journal of Nuclear Materials, 34, 97-100, 1970. |
 | H. E. McCoy <br> J. R. Weir | "Development of a Titanium-Modified Hastelloy N with Improved Resistance to Radiation Damage", Special Technical Publication 457, American Society for Testing and Materials, 290-311, 1969. |
 | J. C . Mailen <br> L. M. Ferris <br> E. D. Nogueira | "Estimate of the Solubility of Protactinium in Liquid Bismuth", Inorg. Nucl. Chem. Letters, 5, 869-872, 1969. |
@@ -921,7 +921,7 @@ from Laboratory Records.
 | George Brunton | "Refinement of the Crystal Structure of &beta;<sub>1</sub>-K<sub>2</sub>UF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
 | George Brunton | "The Crystal Structure of KU<sub>2</sub>F<sub>9</sub>", Acta Crystallographica, Vol. B25, Part 9, September 1969. |
 | George Brunton | "The Crystal Structure of &gamma;-Na<sub>2</sub>ZrF<sub>6</sub>", Acta Crystallographica, Vol. B25, Part 10, October 1969. |
-| ... | "Repairing Nuclear-Plant Piping", Power, p. 44, January 1970. |
+| Anon. | "Repairing Nuclear-Plant Piping", Power, p. 44, January 1970. |
 | George Brunton | "The Crystal Structure of Na<sub>3</sub>CrF<sub>6</sub>", Materials Research Bulletin, Vol. 4, pp. 621-626, 1969. |
 | C. F. Baes, Jr. | "The Chemistry and Thermodynamics of Molten Salt Reactor Fuels", presented at A. I. M. E. Symposium, "Reprocessing of Nuclear Fuels", Ames, Iowa, August 25-27, 1969. |
 
@@ -967,7 +967,7 @@ from Laboratory Records.
 | ORNL-TM-2065 | 11/69 | G. Long T <br> F. F. Blankenship | The Stability of Uranium Trifluoride Part I. Stability in the Solid Phase |
 | ORNL-TM-2021 (Vol. 1) | 5/69 | Jackson H.DeVan | Effect of Alloying Additions on Corrision Behavior of Nickel-Molybdenum Alloys in Fused Fluoride Mixtures |
 | ORNL-MIT-86 | 6/69 | S. F. Koch <br> Y. A. Butruille | Analytical Study of the Reentry Tube Boiler Concept |
-| ORNL-tr-2218 | .../69 | Olaf Dahlke <br> Wigbert Gans <br> Ottmar Knacke <br> Franz Milller | Dissociation Pressure of Bismuth in the System: Bismuth-Thorium |
+| ORNL-tr-2218 | 1/69 | Olaf Dahlke <br> Wigbert Gans <br> Ottmar Knacke <br> Franz Milller | Dissociation Pressure of Bismuth in the System: Bismuth-Thorium |
 
 **Papers Relating to MSRs**
 
@@ -979,7 +979,7 @@ from Laboratory Records.
 | G. D. Robbins <br> J. Braunstein | "Specific Conductance of Molten Potassium Nitrate", Journal of the Electrochemical Society, Vol. 116, No. 9, Sept. 1969. |
 | H. E. McCoy | "Variation of the Mechanical Properties of Irradiated Hastelloy N with Strain Rate", Journal of Nuclear Materials, 31, pp. 67-85, 1969. |
 | L. o. Gilpatrick <br> S. Cantor <br> C. J. Barton | "D. T. A. Apparatus with Agitation and Sealed Specimens for Molten Salt Phase Studies", Thermal Analysis, Volume 1, pp. 85-95, 1969. |
-| L. M. Toth <br> J. P. Young <br> G. P. Smith | "Diamond-Windowed Cell for Spectrophotometry of Molten Fluoride Salts" Analytical Chemistry, Vol. 41, pp. 683-5, April 1969. |
+| L. M. Toth <br> J. P. Young <br> G. P. Smith | "Diamond-Windowed Cell for Spectrophotometry of Molten Fluoride Salts", Analytical Chemistry, Vol. 41, pp. 683-5, April 1969. |
 | Harold W. Kohn <br> Ted W. Willmarth | "Metallic Colloids in Molten Salts", Science, February 28, 1969, Vol. 163, pp. 924-925. |
 | B. F. Hitch <br> C. F. Baes, Jr. | "An Electromotive Force Study of Molten Lithium Fluoride-Beryllium Fluoride Solutions", Inorganic Chemistry, 8, 201, 1969. |
 | Jerry Braunstein | "Comment on Complex Ion Equilibria in Molten Salt Mixtures", Journal of Physical Chemistry, 73, 754, 1969. |
@@ -1135,7 +1135,7 @@ from Laboratory Records.
 | MSR-69-44 | 4/69 | J. R. Engel | Behavior of Gases in the MSRE Fuel Salt |
 | MSR-69-45 | 5/69 | C. F. Baes | Introduction of H<sub>2</sub> and HF into the Cover Gas of the MSRE |
 | MSR-69-46 | 5/69 | E. L. Compere | Possible Fluorine Generation in Storage Tanks Containing Used MSRE Fuel Salt |
-| MSR-69-47 | 5/69 | R. E. Thoma | Solubility of UF 3 and U~ in the MSBR Fuel Salt |
+| MSR-69-47 | 5/69 | R. E. Thoma | Solubility of UF<sub>3</sub> and UO<sub>2</sub> in the MSBR Fuel Salt |
 | MSR-69-48 | 5/69 | P. N. Haubenreich | Incident Report on Electrical Power Failure at MSRE Site on April 10, 1969 |
 | MSR-69-49 | 5/69 | B. E. Prince | Interpretation of the Reactivity Balance Data Taken During Operation on the MSRE with <sup>235</sup>U |
 | MSR-69-50 | 5/69 | F. L. Culler | Transmittal of Incident Report No. ORNL-69-2 |
@@ -1206,7 +1206,7 @@ from Laboratory Records.
 | MSR-69-11 | 2/69 | M. W. Rosenthal | MSRP Monthly Report for Dec. 1968 and Jan. 1969 |
 | ... | 10/69 | Ir. W. Swart <br> W. Spiewakowski | Delft Molten Salt Project - Some Projects of the Development Program (Translation by A. Houtzeel) |
 | CF-68-11-18 | 11/68 | W. P. Eatherly <br> D. K. Holmes <br> C. R. Kennedy <br> R. A. Strehlow | Technical Analysis and Program Proposal: Graphite for Molten Salt Reactors |
-| CF-69-1-27 | 1/69 | Radiochemical <br> Plants <br> Committee | Review of the MSRE Distillation Experiment |
+| CF-69-1-27 | 1/69 | Radiochemical Plants Committee | Review of the MSRE Distillation Experiment |
 | ORNL-TM-2136 | 2/69 | P. R. Kasten <br> et al | Graphite Behavior and Its Effects on MSBR Performance |
 | ORNL-TM-2213 | 11/68 | W. L. Carter <br> R. B. Lindauer <br> L. E. McNeese | Design of an Engineering-Scale, Vacuum Distillation Experiment, for Molten Salt Reactor Fuel |
 | ORNL-TM-2315 | 8/68 | D. N. Fry <br> R. C. Kryter | Measurement of Helium Void Fraction in the MSRE Fuel Salt Using Neutron Noise Analysis |
@@ -1331,7 +1331,7 @@ from Laboratory Records.
 | MSR-68-113 | 7/68 | L. G. Alexander | Thermophysical Properties for MSBR Design Studies, Revision 1 |
 | MSR-68-114 | 8/68 | M. W. Rosenthal | MSRP Monthly Report for July 1968 |
 | MSR-68-115 | 8/68 | J. R. McWherter | MSBR Mark I Data |
-| CF-68-5-42 | 5/68 | Radiochemical <br> Plants <br> Committee | Review of Molten Salt Reactor Experiment Fuel Handling and Processing Plant |
+| CF-68-5-42 | 5/68 | Radiochemical Plants Committee | Review of Molten Salt Reactor Experiment Fuel Handling and Processing Plant |
 | CF-68-6-20 | 6/68 | M. Siman-Tov | Temperatures Developed in 2000 Mw(e) MSBR Cores After a Drain |
 | ORNL-TM-910 | 6/68 | R. Blumberg <br> E. C. Hise | MSRE Design and Operations Report - Part X: Maintenance Equipment and Procedures |
 | ORNL-TM-2238 | 7/68 | R. L. Macklin <br> J. H. Gibbons <br> T. H. Handley | Proton Reaction Analysis for Lithium and Fluorine in Graphite, Using a Slit Scanning Technique |
@@ -1567,7 +1567,7 @@ from Laboratory Records.
 | MSR-67 -70 | 8/67 | P. N. Haubenreich | Reliability and Safety of MSRE - Comparison of Some Simple Indices |
 | MSR-67-71 | 8/67 | L. V. Wilson | Progress Report from Mechanical Technology Inc., on Rotor-Dynamic Feasibility Study for MSBR Pumps |
 | CF-67-8-10 | 8/67 | P. N. Haubenreich | The Program Planned for the Molten Salt Reactor Experiment |
-| ORNL-TM-1946 | 8/67 | ... | Review of Molten Salt Reactor Physics Calculations |
+| ORNL-TM-1946 | 8/67 | R. S. Carlsmith <br> L. L. Bennett <br> G. E. Edison <br> E. Gift <br> W. E. Thomas <br> F. G. Welfare | Review of Molten Salt Reactor Physics Calculations |
 | MTI-67TR48 | 8/67 | P. W. Curwen | Rotor-Dynamic Feasibility Study of Molten-Salt Pumps for MSBR Power Plants: Part 1 - Analysis of Initial Layout for a 1250 HP Fuel Pump (MTI Report) |
 
 ### July 1967
