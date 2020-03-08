@@ -15,5 +15,5 @@ all:
 ocr: $(OFIL)
 
 $(ODIR)%.txt : $(SDIR)%.pdf
-	ocrmypdf --force-ocr $< $< --sidecar $@
+	ocrmypdf --force-ocr $< $< --sidecar $@ --tesseract-timeout 600
 	touch $@

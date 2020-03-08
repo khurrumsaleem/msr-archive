@@ -244,7 +244,7 @@ disclaimer: this repository is **not** intended to be a distribution of pdf docu
 | [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending December 31, 1957](docs/ORNL-2440.pdf) | ORNL-2440 | 1958-04-15 | [txt](ocr/ORNL-2440.txt) |
 | [Molten-Salt Reactor Program: Quarterly Progress Report for Period Ending October 31, 1957](docs/ORNL-2431.pdf) | ORNL-2431 | 1958-02-07 | [txt](ocr/ORNL-2431.txt) |
 | [Guide to the Phase Diagrams of the Fluoride Systems](docs/ORNL-2396.pdf) | ORNL-2396 | 1959-11 | [txt](ocr/ORNL-2396.txt) |
-| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending September 30, 1957](docs/ORNL-2387.pdf) | ORNL-2387 | 1958-02 | yet to be ocr'ed |
+| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending September 30, 1957](docs/ORNL-2387.pdf) | ORNL-2387 | 1958-02 | [txt](ocr/ORNL-2387.txt) |
 | [Molten-Salt Reactor Program: Quarterly Progress Report for Period Ending September 1, 1957](docs/ORNL-2378.pdf) | ORNL-2378 | 1957-12-27 | [txt](ocr/ORNL-2378.txt) |
 | [ART Fuel Pump and Xenon Removal System Development, Test Evaluation, and Aircraft Application](docs/ORNL-2376.pdf) | ORNL-2376 | 1957-12-10 | [txt](ocr/ORNL-2376.txt) |
 | [Some Aspects of the Behavior of Fission Products in Molten-Fluoride Reactor Fuels](docs/ORNL-2374.pdf) | ORNL-2374 | 1957-08-28 | [txt](ocr/ORNL-2374.txt) |
@@ -265,11 +265,11 @@ disclaimer: this repository is **not** intended to be a distribution of pdf docu
 | [Analytical and Experimental Studies of the Temperature Structure Within the ART Core](docs/ORNL-2198.pdf) | ORNL-2198 | 1957-01-31 | [txt](ocr/ORNL-2198.txt) |
 | [Optical Properties and X-Ray Diffraction Data for Some Inorganic Fluoride and Chloride Compounds](docs/ORNL-2192.pdf) | ORNL-2192 | 1958-10-23 | [txt](ocr/ORNL-2192.txt) |
 | [Dissolution of U-Zr Fuel Elements in Fused NaF-ZrF4](docs/ORNL-2183.pdf) | ORNL-2183 | 1957-01-24 | [txt](ocr/ORNL-2183.txt) |
-| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending September 10, 1956](docs/ORNL-2157.pdf) | ORNL-2157 | 1956-12 | yet to be ocr'ed |
+| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending September 10, 1956](docs/ORNL-2157.pdf) | ORNL-2157 | 1956-12 | [txt](ocr/ORNL-2157.txt) |
 | [Corrosion Products Formed in the Reaction Between Fused Sodium Hydroxide and Iron-Rich Alloys of Fe, Cr, and Ni](docs/ORNL-2156.pdf) | ORNL-2156 | 1957-04-26 | [txt](ocr/ORNL-2156.txt) |
 | [A Physical Property Summary for ANP Fluoride Mixtures](docs/ORNL-2150.pdf) | ORNL-2150 | 1956-08-23 | [txt](ocr/ORNL-2150.txt) |
 | [Measurement and Analysis of the Holdup of Gas Mixtures by Charcoal Traps](docs/ORNL-2116.pdf) | ORNL-2116 | 1956-07-27 | [txt](ocr/ORNL-2116.txt) |
-| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending June 10, 1956](docs/ORNL-2106.pdf) | ORNL-2106 | 1956-09 | yet to be ocr'ed |
+| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending June 10, 1956](docs/ORNL-2106.pdf) | ORNL-2106 | 1956-09 | [txt](ocr/ORNL-2106.txt) |
 | [Compatibility Tests of Materials for Use in Bearings, Seals, and Valves in Fused Fluoride Salts at 1200F](docs/ORNL-2103.pdf) | ORNL-2103 | 1956-09-21 | [txt](ocr/ORNL-2103.txt) |
 | [Design Report on the Aircraft Reactor Test](docs/ORNL-2095.pdf) | ORNL-2095 | 1956-05 | [txt](ocr/ORNL-2095.txt) |
 | [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending March 10, 1956](docs/ORNL-2061.pdf) | ORNL-2061 | 1956-05-23 | [txt](ocr/ORNL-2061.txt) |
@@ -326,7 +326,7 @@ disclaimer: this repository is **not** intended to be a distribution of pdf docu
 | [A Design Study of a Nuclear-Powered Airplane in which Circulating Fuel is Piped Directly](docs/ORNL-1287.pdf) | ORNL-1287 | 1953-03-31 | [txt](ocr/ORNL-1287.txt) |
 | [General Information Concerning Fluorides](docs/ORNL-1252.pdf) | ORNL-1252 | 1952-02-19 | [txt](ocr/ORNL-1252.txt) |
 | [Reactor Program of the Aircraft Nuclear Propulsion Project](docs/ORNL-1234.pdf) | ORNL-1234 | 1952-06-02 | [txt](ocr/ORNL-1234.txt) |
-| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending March 10, 1952](docs/ORNL-1227.pdf) | ORNL-1227 | 1952-05 | yet to be ocr'ed |
+| [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending March 10, 1952](docs/ORNL-1227.pdf) | ORNL-1227 | 1952-05 | [txt](ocr/ORNL-1227.txt) |
 | [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending December 10, 1951](docs/ORNL-1170.pdf) | ORNL-1170 | 1952-02 | [txt](ocr/ORNL-1170.txt) |
 | [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending September 10, 1951](docs/ORNL-1154.pdf) | ORNL-1154 | 1951-12 | [txt](ocr/ORNL-1154.txt) |
 | [Aircraft Nuclear Propulsion Program: Quarterly Progress Report for Period Ending June 10, 1951](docs/ANP-65.pdf) | ANP-65 | ????-?? | [txt](ocr/ANP-65.txt) |
@@ -582,7 +582,7 @@ disclaimer: this repository is **not** intended to be a distribution of pdf docu
 | [MSRE Design and Operations Report Part VI: Operating Limits](docs/ORNL-TM-0733.pdf) | ORNL-TM-0733 | 1965-01 | [txt](ocr/ORNL-TM-0733.txt) |
 | [MSRE Design and Operations Report Part V: Reactor Safety Analysis Report](docs/ORNL-TM-0732.pdf) | ORNL-TM-0732 | 1965-01 | [txt](ocr/ORNL-TM-0732.txt) |
 | [MSRE Design and Operations Report Part III: Nuclear Analysis](docs/ORNL-TM-0730.pdf) | ORNL-TM-0730 | 1965-01 | [txt](ocr/ORNL-TM-0730.txt) |
-| [MSRE Design and Operations Report Part IIB: Nuclear and Process Instrumentation](docs/ORNL-TM-0729B.pdf) | ORNL-TM-0729B | 1965-01 | yet to be ocr'ed |
+| [MSRE Design and Operations Report Part IIB: Nuclear and Process Instrumentation](docs/ORNL-TM-0729B.pdf) | ORNL-TM-0729B | 1965-01 | [txt](ocr/ORNL-TM-0729B.txt) |
 | [MSRE Design and Operations Report Part IIA: Nuclear and Process Instrumentation](docs/ORNL-TM-0729A.pdf) | ORNL-TM-0729A | 1965-01 | [txt](ocr/ORNL-TM-0729A.txt) |
 | [MSRE Design and Operations Report Part I: Description of Reactor Design](docs/ORNL-TM-0728.pdf) | ORNL-TM-0728 | 1965-01 | [txt](ocr/ORNL-TM-0728.txt) |
 | [Inherent Neutron Sources in Clean MSRE Fuel Salt](docs/ORNL-TM-0611.pdf) | ORNL-TM-0611 | 1963-08-27 | [txt](ocr/ORNL-TM-0611.txt) |
@@ -643,6 +643,8 @@ disclaimer: this repository is **not** intended to be a distribution of pdf docu
 | [Delayed Neutron Losses in Circulating Fuel Reactors](docs/ORNL-CF-61-10-39.pdf) | ORNL-CF-61-10-39 | 1961-10-11 | [txt](ocr/ORNL-CF-61-10-39.txt) |
 | [Thorium Breeder Reactor Evaluation Part I: Fuel Yields and Cost of a MSBR](docs/ORNL-CF-61-8-86.pdf) | ORNL-CF-61-8-86 | 1961-08-18 | [txt](ocr/ORNL-CF-61-8-86.txt) |
 | [MSRE Preliminary Physics Report](docs/ORNL-CF-61-4-62.pdf) | ORNL-CF-61-4-62 | 1961-04-19 | [txt](ocr/ORNL-CF-61-4-62.txt) |
+| [Addendum to ORNL ORNL-CF-61-2-46, Molten-Salt Reactor Experiment Preliminary Hazards Report](docs/ORNL-CF-61-2-46-AD.pdf) | ORNL-CF-61-2-46-AD | 1961-08-14 | [txt](ORNL-CF-61-2-46-AD.txt) |
+| [Molten-Salt Reactor Experiment Preliminary Hazards Report](docs/ORNL-CF-61-2-46.pdf) | ORNL-CF-61-2-46 | 1961-02-28 | [txt](ORNL-CF-61-2-46.txt) |
 | [Homogeneous Molten-Salt Reactors](docs/ORNL-CF-60-12-111.pdf) | ORNL-CF-60-12-111 | 1960-12-13 | [txt](ocr/ORNL-CF-60-12-111.txt) |
 | [MSRE Radiator Design](docs/ORNL-CF-60-11-108.pdf) | ORNL-CF-60-11-108 | 1960-11-30 | [txt](ocr/ORNL-CF-60-11-108.txt) |
 | [MSRE Analog Computer Simulation of a Loss-of-Flow Accident in the Secondary System](docs/ORNL-CF-60-11-20.pdf) | ORNL-CF-60-11-20 | 1960-11-04 | [txt](ocr/ORNL-CF-60-11-20.txt) |
